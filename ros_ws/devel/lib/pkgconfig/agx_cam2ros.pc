@@ -1,0 +1,8 @@
+prefix=/home/inha/Documents/vision/ros_ws/devel
+
+Name: agx_cam2ros
+Description: Description of agx_cam2ros
+Version: 0.0.0
+Cflags: -I/home/inha/Documents/vision/ros_ws/src/agx_cam2ros/include
+Libs: -L${prefix}/lib 
+Requires: 
